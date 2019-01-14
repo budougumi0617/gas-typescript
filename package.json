@@ -1,0 +1,30 @@
+{
+  "name": "gas-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budougumi0617/gas-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budougumi0617/gas-typescript/issues"
+  },
+  "homepage": "https://github.com/budougumi0617/gas-typescript#readme",
+  "dependencies": {
+    "@google/clasp": "^1.7.0",
+    "@types/google-apps-script": "0.0.35",
+    "@types/node": "^10.12.18",
+    "tslint": "^5.12.1"
+  },
+  "devDependencies": {
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-plugin-prettier": "^2.0.1"
+  }
+}
