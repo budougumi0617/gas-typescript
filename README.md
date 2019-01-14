@@ -10,7 +10,7 @@ $ cd gas-typescript
 $ git init .
 $ hub create
 $ npm init -y
-$ npm i -S  @google/clasp tslint
+$ npm i -S @google/clasp tslint
 $ npm i -S @types/google-apps-script @types/node
 ```
 
